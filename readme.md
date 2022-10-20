@@ -8,6 +8,11 @@
 * Edge detection - Canny, Soble, and log laplacian.
 * Hough Circles - detecting circles.
 
+![alt text](https://github.com/mike-tr/CV2_Uni/blob/main/Examples/EdgesL.png)
+![alt text](https://github.com/mike-tr/CV2_Uni/blob/main/Examples/EdgesLL.png)
+![alt text](https://github.com/mike-tr/CV2_Uni/blob/main/Examples/CannyEdges.jpg)
+![alt text](https://github.com/mike-tr/CV2_Uni/blob/main/Examples/circleDetection.png)
+
 ### EX3 - Scaling and downscaling images, Image marging.
 * Lucas Kanade optical flow
 * Gaussian and Laplacian Pyramids
